@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mr-siddy/mr-siddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate about Artificial Intelligence 🚀 . I'm from India and am currently looking to collaborate on ML/DL projects and would love to work with like-minded individuals. 
+Hi, I'm Siddhant saxena, a Machine Learning novice and am very passionate about Artificial Intelligence 🚀 . I'm from India and am currently looking to collaborate on ML/DL projects and would love to work with like-minded individuals. 
 <!---  <img align="right" alt="GIF" src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" /> -->
   
 **Talking about Me:**
