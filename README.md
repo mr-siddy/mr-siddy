@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br />
 
 Hi, I'm Siddhant saxena, a Machine Learning novice and am very passionate about Artificial Intelligence 🚀 . I'm from India and am currently looking to collaborate on ML/DL projects and would love to work with like-minded individuals. 
-<!---  <img align="right" alt="GIF" src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" /> -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/source.gif" /> 
   
 **Talking about Me:**
 
@@ -68,4 +68,4 @@ Hi, I'm Siddhant saxena, a Machine Learning novice and am very passionate about 
 </a> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-siddy&theme=onedark)](https://github.com/mr-siddy/github-readme-stats)
 
-⭐️ From [Siddhant](https://github.com/mr-siddy)**
+⭐️ From [Siddhant](https://github.com/mr-siddy)
