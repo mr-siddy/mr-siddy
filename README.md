@@ -59,8 +59,9 @@ Hi, I'm Siddhant saxena, a Machine Learning novice and am very passionate about 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+[![mr-siddy GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-siddy)](https://github.com/mr-siddy/github-readme-stats)
 
-![Siddhant's github stats](https://github-readme-stats.mr-siddy.vercel.app/api?username=mr-siddy&show_icons=true&hide_border=true&theme=radical")
+
 
 <!--
 <a href="https://github.com/devangi2000/mnist-flask">
