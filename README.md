@@ -35,10 +35,8 @@ Here are some ideas to get you started:
 <br />
 
 Hi, I'm Siddhant saxena, a Machine Learning novice and am very passionate about Artificial Intelligence 🚀 . I'm from India and am currently looking to collaborate on ML/DL projects and would love to work with like-minded individuals. 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/source.gif" /> 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/WoLflWo2k1iZyeVYad/giphy.gif" /> 
 
-<div style="width:100%;height:0;padding-bottom:129%;position:relative;"><iframe src="https://giphy.com/embed/WoLflWo2k1iZyeVYad" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/weird-ekdojo-matthieubourel-WoLflWo2k1iZyeVYad">via GIPHY</a></p>
-  
 **Talking about Me:**
 
 - 💻 I’m currently working on ML Projects and am looking for collaborators;
