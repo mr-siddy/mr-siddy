@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/siddhant-saxena-445964182/">
   <img align="left" alt="Siddhant's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/devangi___/">
+<a href="https://www.instagram.com/s.i.d.d.y_saxena/">
   <img align="left" alt="Siddhant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/devangi2000/">
+<a href="https://www.reddit.com/user/N3RD_Programmer">
   <img align="left" alt="Siddhant's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://www.hackerrank.com/devangipurkayas1/">
+<a href="https://www.hackerrank.com/mrsiddy_py">
   <img align="left" alt="Siddhant's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
