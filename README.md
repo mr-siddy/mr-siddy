@@ -39,7 +39,7 @@ Hi, I'm Siddhant saxena, a Machine Learning novice and am very passionate about 
 **Talking about Me:**
 
 - 💻 I’m currently working on ML Projects and am looking for collaborators;
-- 🌱 I’m currently learning Computer Vision; 
+- 🌱 I’m currently learning Reinforcement Learning; 
 - 💬 Ask me about anything, I'd try my best to help;
 - 📫 How to reach me: mrsiddy.py@gmail.com;
 <!--- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
