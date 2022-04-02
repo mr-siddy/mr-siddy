@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ### Hey 👋🏽, I'm [Siddhant!](mrsiddy.me) 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mr-siddy.visitor-badge)
+
+> Dear Visitor, I am currently involved in many research activities and hence a lot of code that I do is either private in the genesis organization or not allowed to publish at all, hence kindly contact me in-person if required.
+
 <br/>
 <a href="https://www.linkedin.com/in/siddhant-saxena-445964182/">
   <img align="left" alt="Siddhant's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
